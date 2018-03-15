@@ -25,4 +25,4 @@ using System.Runtime.CompilerServices;
 
 [assembly: AssemblyTitle ("Soupply")]
 [assembly: AssemblyDescription ("Automatically generated libraries for encoding and decoding Minecraft protocols")]
-[assembly: AssemblyVersion ("1.0.19")]
+[assembly: AssemblyVersion ("1.0.20")]
